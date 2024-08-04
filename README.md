@@ -33,8 +33,14 @@ This model (which is an extension of Wilnsky model ) computationally shows how a
 
 ![Ant model (homogenous) interface_1](https://github.com/user-attachments/assets/9e8ea561-62d7-49ec-90fd-ef19153bd2ec)
 
--   Ants in the (middel nest)
+A: Ants in the (middel nest)
   
+![Ant model (homogenous) interface_2](https://github.com/user-attachments/assets/a75912f9-f14c-4454-aa4d-03e263e5c820)
+
+A: Ants in exiting (middel nest)
+
+![Ant model (homogenous) interface_3](https://github.com/user-attachments/assets/e3dca1bd-5f91-418b-bbc7-b44f784c1575)
+
+C: Ants iand environment interplay
 
 
-pheromones are chemical signals that ants use to communicate and coordinate activities such as foraging and nest-building. They lay down pheromone trails to guide themselves and others to food sources and back to the nest, optimizing their paths based on the strength of the pheromone trails. This sophisticated use of chemical signaling allows ants to efficiently navigate and thrive in their environment.
