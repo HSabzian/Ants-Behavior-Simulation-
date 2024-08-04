@@ -30,9 +30,10 @@ Ants use pheromones to navigate their environment and find their way back to the
 
 
 This model (which is an extension of Wilnsky model ) computationally shows how ants use pheromones to navigate and what patterns can emerge:
+
 ![Ant model (homogenous) interface_1](https://github.com/user-attachments/assets/9e8ea561-62d7-49ec-90fd-ef19153bd2ec)
 
-Ants in the (middel nest)
+                                   Ants in the (middel nest)
   
 
 
