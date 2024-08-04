@@ -1,3 +1,15 @@
+A: Ants in the (middel nest)
+![Ant model (homogenous) interface_1](https://github.com/user-attachments/assets/9e8ea561-62d7-49ec-90fd-ef19153bd2ec)
+
+
+B: Ants in exiting (middel nest) 
+![Ant model (homogenous) interface_2](https://github.com/user-attachments/assets/a75912f9-f14c-4454-aa4d-03e263e5c820)
+
+
+C: Ants iand environment interplay
+![Ant model (homogenous) interface_3](https://github.com/user-attachments/assets/e3dca1bd-5f91-418b-bbc7-b44f784c1575)
+
+# About model
 Ants use pheromones to navigate their environment and find their way back to their nest. Pheromones are chemical substances produced and released by animals, particularly insects, that trigger social responses in members of the same species. For ants, pheromones play a crucial role in communication and coordination within their colonies. Just through this simple mechanism, ants create a optimization process that completely afffcet their behavior. how ants use pheromones to navigate can be explained as following:
 
 ## Trail Formation and Following:
@@ -31,16 +43,9 @@ Ants use pheromones to navigate their environment and find their way back to the
 
 This model (which is an extension of Wilnsky model ) computationally shows how ants use pheromones to navigate and what patterns can emerge:
 
-![Ant model (homogenous) interface_1](https://github.com/user-attachments/assets/9e8ea561-62d7-49ec-90fd-ef19153bd2ec)
 
-A: Ants in the (middel nest)
-  
-![Ant model (homogenous) interface_2](https://github.com/user-attachments/assets/a75912f9-f14c-4454-aa4d-03e263e5c820)
 
-A: Ants in exiting (middel nest)
 
-![Ant model (homogenous) interface_3](https://github.com/user-attachments/assets/e3dca1bd-5f91-418b-bbc7-b44f784c1575)
 
-C: Ants iand environment interplay
 
 
