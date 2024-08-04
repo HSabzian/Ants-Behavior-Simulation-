@@ -29,8 +29,11 @@ Ants use pheromones to navigate their environment and find their way back to the
 - This dynamic adjustment helps ants to avoid wasting time and energy on paths leading to non-existent food sources.
 
 
+This model (which is an extension of Wilnsky model ) computationally shows how ants use pheromones to navigate and what patterns can emerge:
+![Ant model (homogenous) interface_1](https://github.com/user-attachments/assets/9e8ea561-62d7-49ec-90fd-ef19153bd2ec)
 
-
-
+Ants in the (middel nest)
   
- pheromones are chemical signals that ants use to communicate and coordinate activities such as foraging and nest-building. They lay down pheromone trails to guide themselves and others to food sources and back to the nest, optimizing their paths based on the strength of the pheromone trails. This sophisticated use of chemical signaling allows ants to efficiently navigate and thrive in their environment.
+
+
+pheromones are chemical signals that ants use to communicate and coordinate activities such as foraging and nest-building. They lay down pheromone trails to guide themselves and others to food sources and back to the nest, optimizing their paths based on the strength of the pheromone trails. This sophisticated use of chemical signaling allows ants to efficiently navigate and thrive in their environment.
