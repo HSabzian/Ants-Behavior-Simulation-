@@ -33,7 +33,7 @@ This model (which is an extension of Wilnsky model ) computationally shows how a
 
 ![Ant model (homogenous) interface_1](https://github.com/user-attachments/assets/9e8ea561-62d7-49ec-90fd-ef19153bd2ec)
 
-                                   Ants in the (middel nest)
+-- Ants in the (middel nest)
   
 
 
