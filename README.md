@@ -6,7 +6,7 @@ B: Ants in exiting (middel nest)
 ![Ant model (homogenous) interface_2](https://github.com/user-attachments/assets/a75912f9-f14c-4454-aa4d-03e263e5c820)
 
 
-C: Ants iand environment interplay
+C: Ants and environment interplay
 ![Ant model (homogenous) interface_3](https://github.com/user-attachments/assets/e3dca1bd-5f91-418b-bbc7-b44f784c1575)
 
 # About model
@@ -41,7 +41,9 @@ Ants use pheromones to navigate their environment and find their way back to the
 - This dynamic adjustment helps ants to avoid wasting time and energy on paths leading to non-existent food sources.
 
 
-This model (which is an extension of Wilnsky model ) computationally shows how ants use pheromones to navigate and what patterns can emerge:
+This model which is an extension of Wilnsky model (following source) computationally shows how ants use pheromones to navigate and what patterns can emerge.
+
+Source: Wilensky, U. & Rand, W. (2015). Introduction to Agent-Based Modeling: Modeling Natural, Social and Engineered Complex Systems with NetLogo. Cambridge, MA. MIT Press.
 
 
 
